@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Message</h3>
+    </div>
+    <div class="panel-body">
+        <ul id="log-panel"></ul>
+    </div>
+</div>
+
+
+@section scripts {
+    <script>
+        $.index = {};
+        $.index.init = {
+            signalrInit: function () {
+                var msgHub = $.connection.msgHub;
+                msgHub.client.msg = function (message) {
+                    if (message) {
+                        $.index.init.appendLog(message);
+                    }
+                };
+
+                var msgHubApi = $.connection.msgHubApi;
+                msgHubApi.client.msg = function (message) {
+                    if (message) {
+                        $.index.init.appendLog(message);
+                    }
+                };
+            },
+
+            appendLog: function (text) {
+                $('#log-panel').append('<li class="li-log-info">' + text + '</li>');
+            },
+        }
+
+        $(function () {
+            $.index.init.signalrInit();
+            $.connection.hub.start()
+                .fail(function () {
+                    var msg = 'signalR Connection Error';
+                    console.log(msg);
+                })
+                .done(function () {
+                    console.log('signalR Connected');
+                });
+        })
+    </script>
+}

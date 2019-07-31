@@ -1,0 +1,559 @@
+DEBUG 2019-07-31 15:34:18,511 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 15:34:18,525 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-31 15:34:18,529 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,531 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,531 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,532 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,533 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,533 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:18,535 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-31 15:34:18,834 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:34:20,585 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 15:34:20,691 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 15:34:20,716 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 15:34:20,737 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 15:34:20,890 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 15:43:50,275 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 15:43:50,287 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-31 15:43:50,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:50,295 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-31 15:43:50,582 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:43:52,393 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 15:43:52,497 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 15:43:52,522 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 15:43:52,524 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 15:43:52,691 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 15:50:00,332 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 15:50:00,348 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-31 15:50:00,355 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,358 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:00,360 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-31 15:50:00,657 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:50:02,312 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 15:50:02,414 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 15:50:02,441 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 15:50:02,442 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 15:50:02,611 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+ERROR 2019-07-31 15:51:10,670 [14   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:51:28,719 [15   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:52:04,772 [15   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:52:36,608 [14   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:53:43,834 [38   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:54:12,668 [32   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:54:31,364 [30   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+DEBUG 2019-07-31 15:55:57,903 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 15:55:57,917 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2019-07-31 15:55:57,924 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,926 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,927 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:57,930 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2019-07-31 15:55:58,209 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 15:55:59,826 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 15:55:59,922 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 15:55:59,947 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 15:55:59,949 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 15:56:00,163 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+ERROR 2019-07-31 15:56:24,435 [12   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:56:38,356 [19   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:05,120 [19   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:06,578 [18   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:10,594 [19   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:11,023 [19   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:11,410 [18   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:15,120 [20   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:15,689 [19   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:16,200 [20   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:36,150 [21   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:36,717 [22   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:37,223 [22   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+ERROR 2019-07-31 15:57:37,697 [20   ] thoutUser.Web.Controllers.HomeController - This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+System.InvalidOperationException: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet.
+   在 Abp.Web.Mvc.Controllers.Results.AbpJsonResult.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+DEBUG 2019-07-31 16:00:29,581 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:00:29,593 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:00:29,597 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:29,602 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:00:29,886 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:00:31,460 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:00:31,558 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:00:31,582 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:00:31,584 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:00:31,734 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:00:37,153 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"636217e9-8791-47b9-b3d6-ebf338fc4ff9","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:37.1479061+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:37,189 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 636217e9-8791-47b9-b3d6-ebf338fc4ff9
+DEBUG 2019-07-31 16:00:38,007 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 636217e9-8791-47b9-b3d6-ebf338fc4ff9
+DEBUG 2019-07-31 16:00:38,034 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"79756d6e-64a7-42f0-ac4c-68a2eb9d4cf6","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:38.0329058+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:38,682 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 79756d6e-64a7-42f0-ac4c-68a2eb9d4cf6
+DEBUG 2019-07-31 16:00:38,707 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"8451dc4a-256b-4c3c-a10a-7ae23be92957","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:38.7059124+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:39,230 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 8451dc4a-256b-4c3c-a10a-7ae23be92957
+DEBUG 2019-07-31 16:00:39,263 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"35002393-f149-4a43-b788-d4de4a8c5682","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:39.2619192+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:45,381 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 35002393-f149-4a43-b788-d4de4a8c5682
+DEBUG 2019-07-31 16:00:45,419 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f5354af2-d42a-4907-b997-45f3f56cb78c","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:45.413918+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:45,921 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f5354af2-d42a-4907-b997-45f3f56cb78c
+DEBUG 2019-07-31 16:00:46,113 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 7dbf67aa-4669-43d8-b19e-f2f8fc2db27f
+DEBUG 2019-07-31 16:00:46,134 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"7dbf67aa-4669-43d8-b19e-f2f8fc2db27f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:46.1289064+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:46,148 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"aaa4e9a6-33c3-48f1-9a3b-fadceb23a051","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:46.146919+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:46,213 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: aaa4e9a6-33c3-48f1-9a3b-fadceb23a051
+DEBUG 2019-07-31 16:00:46,249 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"d77764ae-a284-4791-a270-d6b69bf08bc4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:46.2469057+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:46,355 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: d77764ae-a284-4791-a270-d6b69bf08bc4
+DEBUG 2019-07-31 16:00:46,390 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"272c8e81-f328-4b13-9556-282be03a9f39","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:46.3889193+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:47,082 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 272c8e81-f328-4b13-9556-282be03a9f39
+DEBUG 2019-07-31 16:00:47,125 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"096789e2-9564-4b73-aa97-8f5db41910c7","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:47.1239181+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:47,736 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 096789e2-9564-4b73-aa97-8f5db41910c7
+DEBUG 2019-07-31 16:00:47,769 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"fdc55ad2-c62a-42bb-b797-678f1e334b03","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:47.7679125+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:49,271 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: fdc55ad2-c62a-42bb-b797-678f1e334b03
+DEBUG 2019-07-31 16:00:49,313 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"d4af9b7a-517c-4c5d-b731-11666accc325","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:49.3113429+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:49,849 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: d4af9b7a-517c-4c5d-b731-11666accc325
+DEBUG 2019-07-31 16:00:49,889 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"70bc5d8c-f2dc-422d-adaa-43aeeb7174d8","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:49.8873347+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:50,314 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 70bc5d8c-f2dc-422d-adaa-43aeeb7174d8
+DEBUG 2019-07-31 16:00:50,355 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"c0938529-95d3-4f47-b22e-c261efc5adef","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:50.352551+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:52,430 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: c0938529-95d3-4f47-b22e-c261efc5adef
+DEBUG 2019-07-31 16:00:52,470 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f2622741-845c-4323-adbd-4a77e4d01146","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:52.4673833+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:52,573 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f2622741-845c-4323-adbd-4a77e4d01146
+DEBUG 2019-07-31 16:00:52,615 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"8a898ff6-7fbb-43b0-9894-0237a88c5ec0","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:52.6133838+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:52,711 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 8a898ff6-7fbb-43b0-9894-0237a88c5ec0
+DEBUG 2019-07-31 16:00:52,752 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"847c969f-e131-40a7-bfad-efca5bc92523","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:52.750384+08:00","Properties":{}}
+DEBUG 2019-07-31 16:00:52,868 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 847c969f-e131-40a7-bfad-efca5bc92523
+DEBUG 2019-07-31 16:00:52,902 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"a4241e4a-b8fe-4485-898e-668ffa02bff7","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:00:52.9003838+08:00","Properties":{}}
+DEBUG 2019-07-31 16:04:43,977 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:04:43,989 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:04:43,994 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:43,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:44,000 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:04:44,303 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:04:45,994 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:04:46,098 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:04:46,125 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:04:46,127 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:04:46,339 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:04:51,484 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"6c69b773-8f93-4754-ae69-0074c6d4398c","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:04:51.477295+08:00","Properties":{}}
+DEBUG 2019-07-31 16:04:51,523 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 6c69b773-8f93-4754-ae69-0074c6d4398c
+DEBUG 2019-07-31 16:04:52,135 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 6c69b773-8f93-4754-ae69-0074c6d4398c
+DEBUG 2019-07-31 16:04:52,149 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"02afa694-a14c-4ae1-bc29-089fb49b10ee","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:04:52.1472949+08:00","Properties":{}}
+DEBUG 2019-07-31 16:04:52,698 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 02afa694-a14c-4ae1-bc29-089fb49b10ee
+DEBUG 2019-07-31 16:04:52,740 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"78fc67bf-32c2-4a4a-9af0-a5625e35155f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:04:52.7374769+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:02,143 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:08:02,156 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:08:02,163 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,166 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,166 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,166 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,166 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,166 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:02,169 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:08:02,488 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:08:04,177 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:08:04,277 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:08:04,302 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:08:04,304 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:08:04,461 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:08:09,856 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"d327d871-eff6-4289-b70d-6484177ee02f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:09.8479054+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:09,897 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: d327d871-eff6-4289-b70d-6484177ee02f
+DEBUG 2019-07-31 16:08:21,520 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: d327d871-eff6-4289-b70d-6484177ee02f
+DEBUG 2019-07-31 16:08:21,555 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"5dbf3a0e-1c18-4847-9d0a-534fdf62b573","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:21.5526962+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:24,947 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"bbebe678-3aa9-469d-9e16-812782904f92","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:24.9446621+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:24,967 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: bbebe678-3aa9-469d-9e16-812782904f92
+DEBUG 2019-07-31 16:08:26,136 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 5dbf3a0e-1c18-4847-9d0a-534fdf62b573
+DEBUG 2019-07-31 16:08:26,168 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"4c9c8061-8cf7-41bd-a344-391c6f8aa88c","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:26.1656744+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:26,835 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 4c9c8061-8cf7-41bd-a344-391c6f8aa88c
+DEBUG 2019-07-31 16:08:26,880 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"737f8e73-10fd-487a-ae37-479499f365d5","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:26.877661+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:27,521 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 737f8e73-10fd-487a-ae37-479499f365d5
+DEBUG 2019-07-31 16:08:27,563 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"1c012693-0a71-4071-be2f-68b9fd4a8c75","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:27.5602114+08:00","Properties":{}}
+DEBUG 2019-07-31 16:08:28,185 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 1c012693-0a71-4071-be2f-68b9fd4a8c75
+DEBUG 2019-07-31 16:08:28,227 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"9770ce9e-8c3b-4f32-8431-d9a6855c1bb2","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:08:28.2240101+08:00","Properties":{}}
+DEBUG 2019-07-31 16:09:48,973 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: bbebe678-3aa9-469d-9e16-812782904f92
+DEBUG 2019-07-31 16:09:49,491 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"3e239d4d-6446-432f-a899-41ea5f237a53","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:09:49.487195+08:00","Properties":{}}
+DEBUG 2019-07-31 16:09:49,521 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 3e239d4d-6446-432f-a899-41ea5f237a53
+DEBUG 2019-07-31 16:10:34,241 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"874fd3d7-9874-4680-a94a-94a01740e47d","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:10:34.2382814+08:00","Properties":{}}
+DEBUG 2019-07-31 16:10:34,247 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 874fd3d7-9874-4680-a94a-94a01740e47d
+DEBUG 2019-07-31 16:11:04,861 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 3e239d4d-6446-432f-a899-41ea5f237a53
+DEBUG 2019-07-31 16:11:14,036 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 874fd3d7-9874-4680-a94a-94a01740e47d
+DEBUG 2019-07-31 16:11:14,581 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"e9296d80-681f-4408-93cb-bc5618670d84","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:11:14.5763325+08:00","Properties":{}}
+DEBUG 2019-07-31 16:11:14,605 [27   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: e9296d80-681f-4408-93cb-bc5618670d84
+DEBUG 2019-07-31 16:12:28,118 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:12:28,555 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:12:28,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,560 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:28,564 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:12:29,273 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:12:29,448 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:12:29,561 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:12:29,589 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:12:29,591 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:12:29,986 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:12:37,448 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"855c9710-e367-4dd1-8b3f-97b4c3a205ad","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:37.4363849+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:39,362 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"2614580e-fb61-4018-8955-c2c62e3cdb37","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:39.3593857+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:39,392 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 2614580e-fb61-4018-8955-c2c62e3cdb37
+DEBUG 2019-07-31 16:12:46,000 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"655f3a1c-0377-4e91-ad78-181d70a113ae","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:45.9986643+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:46,018 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 655f3a1c-0377-4e91-ad78-181d70a113ae
+DEBUG 2019-07-31 16:12:49,008 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 2614580e-fb61-4018-8955-c2c62e3cdb37
+DEBUG 2019-07-31 16:12:49,036 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"05b52901-91a6-43ad-97a5-e361fdbeec8f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:49.0338084+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:57,224 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 05b52901-91a6-43ad-97a5-e361fdbeec8f
+DEBUG 2019-07-31 16:12:57,263 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f7724eed-d96a-4593-be63-27aa7be17257","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:57.2602759+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:57,650 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f7724eed-d96a-4593-be63-27aa7be17257
+DEBUG 2019-07-31 16:12:57,691 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"066f550a-6b14-49dc-9f81-a6a678982a42","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:57.6895667+08:00","Properties":{}}
+DEBUG 2019-07-31 16:12:58,441 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 066f550a-6b14-49dc-9f81-a6a678982a42
+DEBUG 2019-07-31 16:12:58,467 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ac37032a-ca4e-4d6b-8bd2-d4501ae1bd34","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:12:58.4644306+08:00","Properties":{}}
+DEBUG 2019-07-31 16:17:46,048 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:17:46,058 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:17:46,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,065 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,066 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:46,068 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:17:46,369 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:17:48,011 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:17:48,112 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:17:48,137 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:17:48,139 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:17:48,299 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:17:49,147 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"889db4d0-7734-401d-ab65-cfff01545121","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:17:49.1356576+08:00","Properties":{}}
+DEBUG 2019-07-31 16:17:54,030 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"0376177f-3837-4720-929d-a46d24a70d6f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:17:54.0276694+08:00","Properties":{}}
+DEBUG 2019-07-31 16:17:54,058 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 0376177f-3837-4720-929d-a46d24a70d6f
+DEBUG 2019-07-31 16:18:04,967 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"c35cf197-47bf-4ef9-8cc8-7753ca80ff1c","IpAddress":"127.0.0.1","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:18:04.9647086+08:00","Properties":{}}
+DEBUG 2019-07-31 16:18:04,980 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: c35cf197-47bf-4ef9-8cc8-7753ca80ff1c
+DEBUG 2019-07-31 16:18:15,399 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 889db4d0-7734-401d-ab65-cfff01545121
+DEBUG 2019-07-31 16:18:15,759 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"32c47c5e-4c47-4acb-8eb5-7fdf1c4fecad","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:18:15.7548014+08:00","Properties":{}}
+DEBUG 2019-07-31 16:18:15,779 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 32c47c5e-4c47-4acb-8eb5-7fdf1c4fecad
+DEBUG 2019-07-31 16:18:21,901 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: c35cf197-47bf-4ef9-8cc8-7753ca80ff1c
+DEBUG 2019-07-31 16:18:21,942 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"479c293d-aec1-4ecf-99c9-b8fa47b4be74","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:18:21.9401042+08:00","Properties":{}}
+DEBUG 2019-07-31 16:18:22,729 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 479c293d-aec1-4ecf-99c9-b8fa47b4be74
+DEBUG 2019-07-31 16:18:22,775 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"7c775fe1-ae27-4192-a81f-340b9779ddd3","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:18:22.7736562+08:00","Properties":{}}
+DEBUG 2019-07-31 16:18:23,365 [10   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 7c775fe1-ae27-4192-a81f-340b9779ddd3
+DEBUG 2019-07-31 16:18:23,400 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"2f33d4fc-12ec-48b8-aea7-6dfb3b7c7ecf","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:18:23.3986132+08:00","Properties":{}}
+DEBUG 2019-07-31 16:18:39,026 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 0376177f-3837-4720-929d-a46d24a70d6f
+DEBUG 2019-07-31 16:22:20,712 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:22:20,724 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:22:20,728 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,730 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,731 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,731 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,731 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,731 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:20,734 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:22:21,057 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:22:22,712 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:22:22,826 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:22:22,852 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:22:22,854 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:22:23,009 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:22:23,863 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"cb6f8626-8814-4e90-837b-db44b49e9f9e","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:22:23.8512137+08:00","Properties":{}}
+DEBUG 2019-07-31 16:22:29,128 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"7bbe406f-a97e-4a74-9413-834ff36397e2","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:22:29.1122318+08:00","Properties":{}}
+DEBUG 2019-07-31 16:22:29,182 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f7bbe3ed-c18a-4e11-80da-29a84bfdc963","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:22:29.1792318+08:00","Properties":{}}
+DEBUG 2019-07-31 16:22:29,195 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 7bbe406f-a97e-4a74-9413-834ff36397e2
+DEBUG 2019-07-31 16:22:29,196 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: f7bbe3ed-c18a-4e11-80da-29a84bfdc963
+DEBUG 2019-07-31 16:22:35,669 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 7bbe406f-a97e-4a74-9413-834ff36397e2
+DEBUG 2019-07-31 16:22:35,696 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"74e15a28-e847-46f3-94de-c5c31e6a61e8","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:22:35.6950069+08:00","Properties":{}}
+DEBUG 2019-07-31 16:23:00,249 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: cb6f8626-8814-4e90-837b-db44b49e9f9e
+DEBUG 2019-07-31 16:25:25,393 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f7bbe3ed-c18a-4e11-80da-29a84bfdc963
+DEBUG 2019-07-31 16:25:25,797 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"384ed331-fb13-46f4-bd8a-e1a4750ebc8a","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:25:25.7948833+08:00","Properties":{}}
+DEBUG 2019-07-31 16:25:25,811 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 384ed331-fb13-46f4-bd8a-e1a4750ebc8a
+DEBUG 2019-07-31 16:25:28,488 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 74e15a28-e847-46f3-94de-c5c31e6a61e8
+DEBUG 2019-07-31 16:25:29,012 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ce2ba42f-f107-46b9-92ad-fea61bf45200","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:25:29.0089133+08:00","Properties":{}}
+DEBUG 2019-07-31 16:25:29,027 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ce2ba42f-f107-46b9-92ad-fea61bf45200
+DEBUG 2019-07-31 16:25:33,905 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ce2ba42f-f107-46b9-92ad-fea61bf45200
+DEBUG 2019-07-31 16:25:33,945 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ade0c2a5-4af4-4cc5-bbf8-58daa68a38b9","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:25:33.9421819+08:00","Properties":{}}
+DEBUG 2019-07-31 16:28:52,919 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-07-31 16:28:52,933 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2019-07-31 16:28:52,938 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.Web.AbpWithoutUserWebModule, AbpWithoutUser.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,939 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserDataModule, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserCoreModule, AbpWithoutUser.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserApplicationModule, AbpWithoutUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,940 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AbpWithoutUser.AbpWithoutUserWebApiModule, AbpWithoutUser.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,941 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:52,943 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2019-07-31 16:28:53,259 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AbpWithoutUser.EntityFramework.AbpWithoutUserDbContext, AbpWithoutUser.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-07-31 16:28:54,905 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-07-31 16:28:55,007 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-07-31 16:28:55,033 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-07-31 16:28:55,035 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWithoutUser
+DEBUG 2019-07-31 16:28:55,233 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-07-31 16:29:00,738 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"eeb1cbc3-f7d2-4b6e-ad1b-890b4c49293f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:00.7320288+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:00,808 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: eeb1cbc3-f7d2-4b6e-ad1b-890b4c49293f
+DEBUG 2019-07-31 16:29:01,337 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: eeb1cbc3-f7d2-4b6e-ad1b-890b4c49293f
+DEBUG 2019-07-31 16:29:01,371 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"4e792052-bf56-4176-9fa6-7b9cfe0a8dd4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:01.3697394+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:02,879 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 4e792052-bf56-4176-9fa6-7b9cfe0a8dd4
+DEBUG 2019-07-31 16:29:02,920 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"5f336847-cb01-49f3-8ed2-9c07895767f4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:02.9184771+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:03,827 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 5f336847-cb01-49f3-8ed2-9c07895767f4
+DEBUG 2019-07-31 16:29:03,868 [20   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"6acd1a84-afb6-4022-9f3c-4f25fec3fca4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:03.8652658+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:04,267 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 6acd1a84-afb6-4022-9f3c-4f25fec3fca4
+DEBUG 2019-07-31 16:29:04,310 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"67db68ed-b456-499d-affd-2414d12ff8ee","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:04.3075932+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:04,621 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 67db68ed-b456-499d-affd-2414d12ff8ee
+DEBUG 2019-07-31 16:29:04,667 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"894e5ee2-1d27-4e25-85b3-f6aba6fb090f","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:04.66472+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:04,959 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 894e5ee2-1d27-4e25-85b3-f6aba6fb090f
+DEBUG 2019-07-31 16:29:05,013 [14   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f31d301f-43be-4940-b500-413cfae91da4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:05.0106346+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:05,274 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f31d301f-43be-4940-b500-413cfae91da4
+DEBUG 2019-07-31 16:29:05,310 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"036e0cb8-97d3-4dfd-8297-b51896f43bc3","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:05.3076426+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:05,602 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 036e0cb8-97d3-4dfd-8297-b51896f43bc3
+DEBUG 2019-07-31 16:29:05,643 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"c81aa82f-65bb-45fe-9868-a1640f742d95","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:05.6415646+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:05,866 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: c81aa82f-65bb-45fe-9868-a1640f742d95
+DEBUG 2019-07-31 16:29:05,913 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"9c1891fa-8539-4fd3-a1a3-7898439b1c80","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:05.9136652+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:06,224 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 9c1891fa-8539-4fd3-a1a3-7898439b1c80
+DEBUG 2019-07-31 16:29:06,270 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"06551206-40c4-4b7b-a35e-b9f0756e0ad4","IpAddress":"192.168.6.100","TenantId":1,"UserId":null,"ConnectTime":"2019-07-31T16:29:06.2678154+08:00","Properties":{}}
+DEBUG 2019-07-31 16:29:09,018 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 06551206-40c4-4b7b-a35e-b9f0756e0ad4

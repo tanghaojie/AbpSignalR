@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.ActiveMenu = "Home"; //The menu item will be active for this page.
+}
+<div>
+    @*<h1>@L("WelcomeMessage")!</h1>
+        <p class="lead">@L("Home_ThisIsATemplate")</p>
+        <div class="row">
+            <div class="col-md-4">
+                <h3>ASP.NET MVC</h3>
+                <p>
+                    @L("Home_AspNetDescription")
+                </p>
+                <a class="btn btn-primary btn-sm" href="http://asp.net/mvc">@L("LearnMore")..</a>
+            </div>
+            <div class="col-md-4">
+                <h3>ASP.NET Boilerplate</h3>
+                <p>
+                    @L("Home_AspNetBoilerplateDescription")
+                </p>
+                <a class="btn btn-primary btn-sm" href="http://aspnetboilerplate.com">@L("LearnMore")..</a>
+            </div>
+            <div class="col-md-4">
+                <h3>@L("Others")</h3>
+                <p>
+                    @L("Home_OtherTools")
+                </p>
+            </div>
+        </div>*@
+
+    <button id="check-btn" class="btn btn-primary btn-sx" type="button">from web layer</button>
+
+    <button id="check-btn1" class="btn btn-primary btn-sx" type="button">from webapi layer</button>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Message</h3>
+        </div>
+        <div class="panel-body">
+            <ul id="log-panel"></ul>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script src="~/Views/Home/test.js"></script>
+}
